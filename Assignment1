@@ -1,0 +1,22 @@
+package assignment;
+
+/**
+ *
+ * @author reuben
+ */
+public class Assignment {
+
+    
+    public static void main(String[] args) {
+       int a=10;
+       float b=100.21f;
+       int c;
+       c=(int)(a+b);
+       System.out.println("sum of the two numbers is:" +c);
+       
+       
+        
+        
+    }
+    
+}
